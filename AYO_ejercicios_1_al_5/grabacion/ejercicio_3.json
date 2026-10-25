@@ -1,0 +1,58 @@
+{
+  "command": [
+    "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python3",
+    "-u",
+    "src/demo.py",
+    "--ejercicio",
+    "3"
+  ],
+  "duration": 0.11238777299968206,
+  "returncode": 0,
+  "events": [
+    [
+      0.041055563999634614,
+      "o",
+      "EJERCICIO 3: EJECUCION DE LOS ALGORITMOS\n"
+    ],
+    [
+      0.10608298699980878,
+      "o",
+      "Instancia 01: aleatorio=83; NN(nodo 16)=20 mejoras\n"
+    ],
+    [
+      0.10614065399977335,
+      "o",
+      "Instancia 10: aleatorio=61; NN(nodo 16)= 8 mejoras\n"
+    ],
+    [
+      0.10614386899987949,
+      "o",
+      "Instancia 20: aleatorio=57; NN(nodo 14)= 5 mejoras\n"
+    ],
+    [
+      0.1061460519999855,
+      "o",
+      "Instancia 30: aleatorio=70; NN(nodo 10)=10 mejoras\n"
+    ],
+    [
+      0.106190358999811,
+      "o",
+      "Random: media mejoras=67.83; costo final=471.74\n"
+    ],
+    [
+      0.10624733399981778,
+      "o",
+      "NN: media mejoras=9.40; costo final=469.11\n"
+    ],
+    [
+      0.106249987999945,
+      "o",
+      "EJECUCION FINALIZADA CORRECTAMENTE\n"
+    ]
+  ],
+  "sha256_codigo": {
+    "src/demo.py": "951d375d902d391bd50c74417e14e792c877f44ee067994c079b2fe34b01d17e",
+    "src/experimentos.py": "c768f2c6ba91fb82f1b9c67a1eb65b51d396c0ebadb5b82fcef3486fabf2b8c7",
+    "src/graficas.py": "eebf2755ea33fab6e55aed0094180baa08baed1263d83875a79c6eec2d8af05f"
+  }
+}

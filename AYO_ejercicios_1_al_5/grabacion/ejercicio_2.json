@@ -1,0 +1,43 @@
+{
+  "command": [
+    "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python3",
+    "-u",
+    "src/demo.py",
+    "--ejercicio",
+    "2"
+  ],
+  "duration": 0.048617429999922024,
+  "returncode": 0,
+  "events": [
+    [
+      0.043708080999749654,
+      "o",
+      "EJERCICIO 2: EJECUCION DE LOS ALGORITMOS\n"
+    ],
+    [
+      0.0437401089998275,
+      "o",
+      "Capacidad = 10; objetos (valor,peso): A(3,2), B(4,3), C(24,8)\n"
+    ],
+    [
+      0.04374352500008172,
+      "o",
+      "weight: objetos=['A', 'B']  peso=5  valor=7\n"
+    ],
+    [
+      0.04375031500012483,
+      "o",
+      "ratio: objetos=['C', 'A']  peso=10  valor=27\n"
+    ],
+    [
+      0.0437528080001357,
+      "o",
+      "EJECUCION FINALIZADA CORRECTAMENTE\n"
+    ]
+  ],
+  "sha256_codigo": {
+    "src/demo.py": "951d375d902d391bd50c74417e14e792c877f44ee067994c079b2fe34b01d17e",
+    "src/experimentos.py": "c768f2c6ba91fb82f1b9c67a1eb65b51d396c0ebadb5b82fcef3486fabf2b8c7",
+    "src/graficas.py": "eebf2755ea33fab6e55aed0094180baa08baed1263d83875a79c6eec2d8af05f"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "command": [
+    "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python3",
+    "-u",
+    "src/demo.py",
+    "--ejercicio",
+    "1"
+  ],
+  "duration": 2.9013618970002426,
+  "returncode": 0,
+  "events": [
+    [
+      0.044568263000201114,
+      "o",
+      "EJERCICIO 1: EJECUCION DE LOS ALGORITMOS\n"
+    ],
+    [
+      0.04464241400000901,
+      "o",
+      "8 tareas x 1 000 000 muestras; carga fija.\n"
+    ],
+    [
+      1.5160519370001566,
+      "o",
+      "p=1  pi=3.1412645  segundos=1.471  speedup=1.00\n"
+    ],
+    [
+      2.236631471000237,
+      "o",
+      "p=2  pi=3.1412645  segundos=0.721  speedup=2.04\n"
+    ],
+    [
+      2.6483156410004085,
+      "o",
+      "p=4  pi=3.1412645  segundos=0.412  speedup=3.57\n"
+    ],
+    [
+      2.892132636000042,
+      "o",
+      "p=8  pi=3.1412645  segundos=0.244  speedup=6.04\n"
+    ],
+    [
+      2.892170352999983,
+      "o",
+      "Demo: una repeticion. El reporte usa medianas de cinco.\n"
+    ],
+    [
+      2.892174198000248,
+      "o",
+      "EJECUCION FINALIZADA CORRECTAMENTE\n"
+    ]
+  ],
+  "sha256_codigo": {
+    "src/demo.py": "951d375d902d391bd50c74417e14e792c877f44ee067994c079b2fe34b01d17e",
+    "src/experimentos.py": "c768f2c6ba91fb82f1b9c67a1eb65b51d396c0ebadb5b82fcef3486fabf2b8c7",
+    "src/graficas.py": "eebf2755ea33fab6e55aed0094180baa08baed1263d83875a79c6eec2d8af05f"
+  }
+}

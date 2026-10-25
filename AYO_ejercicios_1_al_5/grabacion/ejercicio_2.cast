@@ -1,0 +1,6 @@
+{"version": 2, "width": 105, "height": 22, "timestamp": 1792910278, "env": {"TERM": "xterm-256color"}, "title": "Ejercicio 2: ejecucion real", "command": "python src/demo.py --ejercicio 2"}
+[0.043708080999749654, "o", "EJERCICIO 2: EJECUCION DE LOS ALGORITMOS\n"]
+[0.0437401089998275, "o", "Capacidad = 10; objetos (valor,peso): A(3,2), B(4,3), C(24,8)\n"]
+[0.04374352500008172, "o", "weight: objetos=['A', 'B']  peso=5  valor=7\n"]
+[0.04375031500012483, "o", "ratio: objetos=['C', 'A']  peso=10  valor=27\n"]
+[0.0437528080001357, "o", "EJECUCION FINALIZADA CORRECTAMENTE\n"]

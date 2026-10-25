@@ -1,0 +1,53 @@
+{
+  "command": [
+    "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python3",
+    "-u",
+    "src/demo.py",
+    "--ejercicio",
+    "4"
+  ],
+  "duration": 1.4372778950000793,
+  "returncode": 0,
+  "events": [
+    [
+      0.044026375000157714,
+      "o",
+      "EJERCICIO 4: EJECUCION DE LOS ALGORITMOS\n"
+    ],
+    [
+      1.4308436960000108,
+      "o",
+      "G0.90: 20 repeticiones; propuestas=4050; costo medio=476.20\n"
+    ],
+    [
+      1.4308988390002924,
+      "o",
+      "G0.97: 20 repeticiones; propuestas=14000; costo medio=467.34\n"
+    ],
+    [
+      1.4309015829999225,
+      "o",
+      "G0.995: 20 repeticiones; propuestas=85000; costo medio=464.55\n"
+    ],
+    [
+      1.4309033560002717,
+      "o",
+      "Linear: 20 repeticiones; propuestas=14000; costo medio=472.40\n"
+    ],
+    [
+      1.4309064200001558,
+      "o",
+      "Se calcularon 80 soluciones mediante recocido simulado.\n"
+    ],
+    [
+      1.4309081129999868,
+      "o",
+      "EJECUCION FINALIZADA CORRECTAMENTE\n"
+    ]
+  ],
+  "sha256_codigo": {
+    "src/demo.py": "951d375d902d391bd50c74417e14e792c877f44ee067994c079b2fe34b01d17e",
+    "src/experimentos.py": "c768f2c6ba91fb82f1b9c67a1eb65b51d396c0ebadb5b82fcef3486fabf2b8c7",
+    "src/graficas.py": "eebf2755ea33fab6e55aed0094180baa08baed1263d83875a79c6eec2d8af05f"
+  }
+}

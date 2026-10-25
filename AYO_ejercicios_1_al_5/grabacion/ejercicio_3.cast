@@ -1,0 +1,9 @@
+{"version": 2, "width": 105, "height": 22, "timestamp": 1792910278, "env": {"TERM": "xterm-256color"}, "title": "Ejercicio 3: ejecucion real", "command": "python src/demo.py --ejercicio 3"}
+[0.041055563999634614, "o", "EJERCICIO 3: EJECUCION DE LOS ALGORITMOS\n"]
+[0.10608298699980878, "o", "Instancia 01: aleatorio=83; NN(nodo 16)=20 mejoras\n"]
+[0.10614065399977335, "o", "Instancia 10: aleatorio=61; NN(nodo 16)= 8 mejoras\n"]
+[0.10614386899987949, "o", "Instancia 20: aleatorio=57; NN(nodo 14)= 5 mejoras\n"]
+[0.1061460519999855, "o", "Instancia 30: aleatorio=70; NN(nodo 10)=10 mejoras\n"]
+[0.106190358999811, "o", "Random: media mejoras=67.83; costo final=471.74\n"]
+[0.10624733399981778, "o", "NN: media mejoras=9.40; costo final=469.11\n"]
+[0.106249987999945, "o", "EJECUCION FINALIZADA CORRECTAMENTE\n"]
