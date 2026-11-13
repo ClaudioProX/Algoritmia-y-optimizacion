@@ -1,0 +1,27 @@
+{
+  "matricula": 2140485,
+  "r": 0.08175124691477531,
+  "T_min": 1,
+  "T_max": 100,
+  "fracciones": [
+    0.02452537407443259,
+    0.3245253740744326,
+    0.6245253740744325
+  ],
+  "temperaturas": [
+    3.4280120333688266,
+    33.128012033368826,
+    62.82801203336882
+  ],
+  "tamanos": [
+    5,
+    10,
+    15
+  ],
+  "replicas": 10,
+  "iteraciones": 500,
+  "enfriamiento": 0.99,
+  "remuestras_bootstrap": 20000,
+  "criterio": "mediana m\u00ednima; empate: media; empate: menor T0",
+  "semilla_orden": 2190485
+}

@@ -1,0 +1,19 @@
+{
+  "corridas": 90,
+  "semillas_distintas": 90,
+  "puntos_de_diseno": 9,
+  "replicas_por_punto": 10,
+  "rutas_validas": true,
+  "costos_recalculados": true,
+  "datos_reproducidos_sin_tiempos": true,
+  "resultados_estadisticos_reproducidos": true,
+  "tolerancia_absoluta_estadisticas": 1e-09,
+  "pruebas_unitarias_aprobadas": 5,
+  "fuente_texto_docx": "Arial",
+  "tamano_texto_docx": 12,
+  "texto_docx": "negro",
+  "paginas_pdf": 8,
+  "repositorio": "https://github.com/ClaudioProX/Algoritmia-y-optimizacion",
+  "enlace_repositorio_docx_y_pdf": true,
+  "puntos_trayectoria_verificados": 45090
+}
